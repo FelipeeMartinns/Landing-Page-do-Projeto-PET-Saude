@@ -34,4 +34,4 @@ O projeto foi desenvolvido com foco nos requisitos principais solicitados, prior
 Devido ao tempo limitado, a implementação de funcionalidades interativas em JavaScript (como animações ou scroll suave) foi deixada de fora.
 Seria interessante, em um futuro próximo, integrar APIs reais de dados de saúde e incluir dashboards funcionais com gráficos dinâmicos.
 
-**Observação:** Por questões de tempo e praticidade, o envio do projeto ao GitHub foi feito em um único commit. Todo o desenvolvimento foi realizado localmente no VS Code antes da publicação.
+**Observação:** Por questões de tempo e praticidade, a maior parte do envio do projeto ao GitHub foi feito em um único commit. Todo o desenvolvimento foi realizado localmente no VS Code antes da publicação.
